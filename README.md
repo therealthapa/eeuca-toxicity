@@ -39,8 +39,6 @@ All the utterances have a unique identifier called "index". The labels for train
 
 Your submission file must be a `.csv` file named `predictions.csv` with columns `index` and `label`. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the `predictions.csv` file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order.
 
-**Subtask A: Intent Classification**
-
 The labels should be mapped to the following integers:
 
   * 0: *Non-toxic*
@@ -50,7 +48,7 @@ The labels should be mapped to the following integers:
   * 4: *Threats* 
   * 5: *Extremism* 
 
-For all Subtasks, the performance will be ranked by **F1-score** (Macro).
+The performance will be ranked by **F1-score** (Macro).
 
 ## Sample Code
 
