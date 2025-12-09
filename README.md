@@ -27,7 +27,6 @@ All the utterances have a unique identifier called "index". The labels for train
 
   * [Training Data](https://drive.google.com/drive/folders/1HkfwexOpX1S9gRrMeCFMfZJjsBs0hQRu?usp=drive_link)
   * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1AfQuH7_ixt3qwj3cXbt7Db4prcXZJcAB?usp=drive_link)
-  * [Test Data](https://drive.google.com/drive/folders/17-SBgbFpc9GGF5xg37UVJhNV_S0_b-q6?usp=drive_link)
 
 ## Use of External Data
 
