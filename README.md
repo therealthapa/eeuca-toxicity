@@ -1,5 +1,5 @@
 
-# Shared Task on Fine-Grained Toxicity Detection in Online Gaming (GameTox) at CASE 2026
+# Shared Task on Fine-Grained Toxicity Detection in Online Gaming (GameTox) at EEUCA 2026
 
 Competition Link:
 
@@ -34,9 +34,17 @@ The use of external datasets is permitted. You should also mention your external
 
 ## Evaluation
 
-All the utterances have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input.
+All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. 
 
-Your submission file must be a `.csv` file named `predictions.csv` with columns `index` and `label`. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the `predictions.csv` file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order.
+Your submission file must be a .csv file named ‘predictions.csv’ with columns 'index' and ‘label’. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the 'predictions.csv' file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order. A sample submission file is available [here](https://github.com/therealthapa/eeuca-toxicity/blob/main/sample_submission.csv).
+
+| index | label |
+|----------|----------|
+|12345.jpg|	0|
+|15001.jpg|	1|
+|20524.jpg|	1|
+|35231.jpg|	0|
+|65102.jpg|	1|
 
 The labels should be mapped to the following integers:
 
