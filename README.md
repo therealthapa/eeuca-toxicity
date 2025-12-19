@@ -40,11 +40,11 @@ Your submission file must be a .csv file named ‘predictions.csv’ with column
 
 | index | label |
 |----------|----------|
-|12345.jpg|	0|
-|15001.jpg|	1|
-|20524.jpg|	1|
-|35231.jpg|	0|
-|65102.jpg|	1|
+|12345|	0|
+|15001|	1|
+|20524|	1|
+|35231|	0|
+|65102|	1|
 
 The labels should be mapped to the following integers:
 
