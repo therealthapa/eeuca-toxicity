@@ -63,7 +63,7 @@ Sample code and the baseline models (e.g., Joint BERT, ToXCL) used for this data
 
 ## Publication
 
-Participants in the Shared Task are expected to submit a paper to the CASE 2026 workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the EEUCA 2026 workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
 
 ## Timeline of the Events
 
