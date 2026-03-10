@@ -71,8 +71,8 @@ Participants in the Shared Task are expected to submit a paper to the EEUCA 2026
   * Start of the Competition: Dec 10, 2025
   * Eval Phase Start: Dec 10, 2025
   * Test Phase Start: Jan 15, 2026
-  * Test Phase End: March 15, 2026
-  * Paper Submission Deadline: March 28, 2026
+  * Test Phase End: March 18, 2026
+  * Paper Submission Deadline: March 29, 2026
   * Notification of acceptance: April 28, 2026
   * Camera-ready paper due: May 12, 2026
 
